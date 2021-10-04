@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = noemiebasile92@gmail.com
+	name = noemie basile
